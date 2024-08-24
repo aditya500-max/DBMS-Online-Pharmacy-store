@@ -1,7 +1,1 @@
-# Online-Pharmacy-Store
-Designed a database for an Online Pharmacy store in MySQL.
-It efficiently Stores and Manages data related to Order, Stocks and 
-Prices of Medicines.
-Built from scratch using ER diagram, applied Integrity Constraints,
-Implemented OLAP, Triggers and transactions(Conflicting/Non-Conflicting),
-Generated Queries for retrieval of data from tables.
+Developed an efficient and scalable Database management system (DBMS) for an Online pharmacy store using MySQL. Designed ER diagrams and Relational schemas, enforced Integrity constraints.  Populated data for 300+ users and executed 15+ complex SQL queries, including embedded SQL and OLAP, implemented advance features like Triggers and DB transactions.
